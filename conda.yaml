@@ -1,0 +1,13 @@
+name: pii_detection
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - fastapi
+  - faker
+  - spacy 
+  - nltk 
+  - fuzzywuzzy  
